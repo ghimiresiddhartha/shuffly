@@ -1,3 +1,3 @@
 # Shuffly
 
-http://ghimiresiddhartha.github.io/shuffly/
+http://shuffly.siddharthaghimire.com.np
